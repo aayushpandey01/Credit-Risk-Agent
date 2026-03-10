@@ -1,7 +1,7 @@
 # Credit-Risk-Agent
 An autonomous AI powered Credit Risk Monitoring system that combines traditional machine learning with modern LLM based reasoning to simulate real world banking risk analysis.
 
-This project integrates a Probability of Default (PD) model, Early Warning Signals (EWS), portfolio drift monitoring (PSI), and an LLM agent (Groq via LangChain 1.x) to generate structured, explainable, and actionable credit risk insights.
+This project integrates a Probability of Default (PD) model, Early Warning Signals (EWS), portfolio drift monitoring (PSI), and an LLM agent (Groq via LangChain) to generate structured, explainable, and actionable credit risk insights.
 
 Banks continuously monitor borrower risk to prevent defaults and manage portfolio exposure.
 
