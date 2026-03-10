@@ -5,7 +5,7 @@ This project integrates a Probability of Default (PD) model, Early Warning Signa
 
 Banks continuously monitor borrower risk to prevent defaults and manage portfolio exposure.
 
-This system replicates a real credit risk monitoring workflow by:
+This system replicates a real credit risk monitoring workflow by:-
 
 Predicting Probability of Default (PD)
 
